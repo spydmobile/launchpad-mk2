@@ -1,0 +1,23 @@
+{
+  "name": "launchpad-mk2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spydmobile/launchpad-mk2.git"
+  },
+  "keywords": [],
+  "author": "spydmobile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spydmobile/launchpad-mk2/issues"
+  },
+  "homepage": "https://github.com/spydmobile/launchpad-mk2#readme",
+  "dependencies": {
+    "launchpad.js": "^3.3.0"
+  }
+}
